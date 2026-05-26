@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "project/about.html",
-    "href": "project/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -16,13 +9,6 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "AD688 Project",
-    "section": "",
-    "text": "This is for AD688"
-  },
-  {
-    "objectID": "project/index.html",
-    "href": "project/index.html",
     "title": "AD688 Project",
     "section": "",
     "text": "This is for AD688"
