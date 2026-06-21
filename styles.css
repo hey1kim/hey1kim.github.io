@@ -725,3 +725,42 @@ html {
   display: none !important;
   content: none !important;
 }
+
+/* Force remove underline from site title link */
+#quarto-header a.navbar-brand,
+#quarto-header a.navbar-brand:link,
+#quarto-header a.navbar-brand:visited,
+#quarto-header a.navbar-brand:hover,
+#quarto-header a.navbar-brand:focus,
+#quarto-header a.navbar-brand:active {
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+  text-decoration-color: transparent !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
+  color: var(--text-main) !important;
+}
+
+/* Also remove underline from anything inside the title link */
+#quarto-header a.navbar-brand *,
+#quarto-header a.navbar-brand:hover *,
+#quarto-header .navbar-title,
+#quarto-header .navbar-title:hover {
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
+
+/* Remove pseudo-element lines if Quarto/Bootstrap creates them */
+#quarto-header a.navbar-brand::before,
+#quarto-header a.navbar-brand::after,
+#quarto-header a.navbar-brand:hover::before,
+#quarto-header a.navbar-brand:hover::after,
+#quarto-header .navbar-title::before,
+#quarto-header .navbar-title::after {
+  display: none !important;
+  content: none !important;
+}
