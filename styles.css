@@ -700,3 +700,28 @@ html {
 #quarto-header .navbar-nav .nav-link:hover {
   text-decoration: none !important;
 }
+
+/* Remove hover underline from site title */
+#quarto-header .navbar-title,
+#quarto-header .navbar-title:hover,
+#quarto-header .navbar-title:focus {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+#quarto-header .navbar-brand,
+#quarto-header .navbar-brand:hover,
+#quarto-header .navbar-brand:focus {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+#quarto-header .navbar-brand::after,
+#quarto-header .navbar-brand:hover::after,
+#quarto-header .navbar-title::after,
+#quarto-header .navbar-title:hover::after {
+  display: none !important;
+  content: none !important;
+}
