@@ -679,3 +679,14 @@ html {
     padding-top: 64px !important;
   }
 }
+
+/* Remove navbar hover underline */
+#quarto-header .navbar-nav .nav-link:hover::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Remove default underline on navbar hover */
+#quarto-header .navbar-nav .nav-link:hover {
+  text-decoration: none !important;
+}
