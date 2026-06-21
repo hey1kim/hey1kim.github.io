@@ -690,3 +690,13 @@ html {
 #quarto-header .navbar-nav .nav-link:hover {
   text-decoration: none !important;
 }
+
+/* Remove hover underline, keep active page underline */
+#quarto-header .navbar-nav .nav-link:hover::after {
+  display: none !important;
+  content: none !important;
+}
+
+#quarto-header .navbar-nav .nav-link:hover {
+  text-decoration: none !important;
+}
