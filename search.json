@@ -2,15 +2,148 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "AD688 Project",
+    "title": "HYE WON KIM",
     "section": "",
-    "text": "This is for AD688"
+    "text": "BUSINESS STRATEGY · OPERATIONS · ANALYTICS"
+  },
+  {
+    "objectID": "index.html#turning-data-into-business-strategy-and-execution.",
+    "href": "index.html#turning-data-into-business-strategy-and-execution.",
+    "title": "HYE WON KIM",
+    "section": "Turning data into business strategy and execution.",
+    "text": "Turning data into business strategy and execution.\n\n\nWelcome to my professional portfolio.\nI am a strategy, operations, and analytics professional with 10+ years of experience across technology, market expansion, business operations, and data-driven decision-making. I previously served as Chief of Staff to the CEO at Blind, where I supported growth strategy, KPI reporting, market expansion, investor-facing materials, and cross-functional execution for a professional community with 12M+ verified users.\nI am currently pursuing an M.S. in Applied Business Analytics at Boston University, where I am building stronger technical skills in analytics, forecasting, cloud computing, data engineering, machine learning, and data visualization.\n\n\n\n10+ Years\nStrategy, operations, and business experience\n\n\n12M+ Users\nProfessional community supported at Blind\n\n\nBU Analytics\nGraduate study in applied business analytics"
+  },
+  {
+    "objectID": "index.html#what-this-portfolio-highlights",
+    "href": "index.html#what-this-portfolio-highlights",
+    "title": "HYE WON KIM",
+    "section": "What This Portfolio Highlights",
+    "text": "What This Portfolio Highlights\nThis website showcases my academic and professional work, including:\n\nData-driven business strategy and operations experience\nBig data processing and machine learning projects using PySpark\nCloud-based analytics workflows using AWS EC2\nData visualization and storytelling using Python, Seaborn, Plotly, and Quarto\nAcademic projects from Boston University’s analytics coursework"
+  },
+  {
+    "objectID": "index.html#featured-skills",
+    "href": "index.html#featured-skills",
+    "title": "HYE WON KIM",
+    "section": "Featured Skills",
+    "text": "Featured Skills\n\n\n\nBusiness Strategy\n\n\nGrowth strategy, business operations, market expansion, GTM strategy, corporate strategy, and cross-functional execution.\n\n\n\n\nAnalytics & Tools\n\n\nSQL, Python, Excel, Google Sheets, Superset, Tableau, Git/GitHub, KPI frameworks, funnel analysis, and segmentation.\n\n\n\n\nCommunication\n\n\nExecutive reporting, KPI storytelling, stakeholder management, investor-facing materials, English, and Korean."
+  },
+  {
+    "objectID": "index.html#explore-my-portfolio",
+    "href": "index.html#explore-my-portfolio",
+    "title": "HYE WON KIM",
+    "section": "Explore My Portfolio",
+    "text": "Explore My Portfolio\nUse the navigation bar to learn more about me, view selected projects, access my CV, or connect with me."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "I am a strategy, operations, and analytics professional with 10+ years of experience across technology, market expansion, business operations, and data-driven decision-making.\nMost recently, I served as Chief of Staff to the CEO at Blind, where I supported growth strategy, KPI reporting, investor-facing materials, and cross-functional execution for U.S. and India expansion initiatives. I am currently pursuing an M.S. in Applied Business Analytics at Boston University.\n\n\n\nStrategy, operations, and corporate development experience in the technology sector\nFormer Chief of Staff to the CEO at Blind\nExperience supporting U.S. and international market expansion\nAnalytics experience using SQL, Python, Excel, Google Sheets, Superset, and Tableau\nCurrent graduate student in Applied Business Analytics at Boston University\n\n\n\n\nBoston University\nM.S. in Applied Business Analytics\nExpected January 2027\nThe Ohio State University\nB.S. in Hospitality Management\nAugust 2014\n\n\n\nDownload CV"
+  },
+  {
+    "objectID": "cv.html#professional-background",
+    "href": "cv.html#professional-background",
+    "title": "CV",
+    "section": "",
+    "text": "Strategy, operations, and corporate development experience in the technology sector\nFormer Chief of Staff to the CEO at Blind\nExperience supporting U.S. and international market expansion\nAnalytics experience using SQL, Python, Excel, Google Sheets, Superset, and Tableau\nCurrent graduate student in Applied Business Analytics at Boston University"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Boston University\nM.S. in Applied Business Analytics\nExpected January 2027\nThe Ohio State University\nB.S. in Hospitality Management\nAugust 2014"
+  },
+  {
+    "objectID": "cv.html#download-my-cv",
+    "href": "cv.html#download-my-cv",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "PROJECTS",
+    "section": "",
+    "text": "This page highlights selected academic projects from my analytics coursework at Boston University. These projects demonstrate my growing technical skills in cloud computing, big data processing, machine learning, data visualization, and professional portfolio development.\n\n\nPySpark AWS EC2 Machine Learning Seaborn Quarto\nBuilt salary prediction models using a large Lightcast job postings dataset. Compared generalized linear regression, polynomial regression, and random forest models using RMSE, MAE, R², AIC, and BIC.\nKey skills: feature engineering, model evaluation, polynomial features, random forest feature importance, diagnostic visualization.\n\n\n\nPython Plotly Seaborn Data Visualization Job Market Analysis\nCreated visualizations to explore labor market patterns, technical skill demand, and AI-related job trends. The project focused on turning large-scale job posting data into clear visual insights for business audiences.\nKey skills: exploratory data analysis, visual storytelling, chart design, job market trend analysis, insight communication.\n\n\n\nAWS EC2 VS Code Python GitHub Quarto\nConfigured a cloud-based analytics environment using AWS EC2. Set up a virtual machine, connected through VS Code, installed required Python packages, and prepared the environment for reproducible analytics work.\nKey skills: cloud setup, remote development, virtual environments, Git/GitHub workflow, reproducible analytics.\n\n\n\nQuarto GitHub Pages HTML CSS Professional Portfolio\nBuilt this personal portfolio website using Quarto and GitHub Pages. The website presents my background, academic projects, CV, and contact information in a clear and professional format.\nKey skills: website development, portfolio organization, GitHub Pages deployment, professional branding."
+  },
+  {
+    "objectID": "projects.html#machine-learning-on-scale",
+    "href": "projects.html#machine-learning-on-scale",
+    "title": "PROJECTS",
+    "section": "",
+    "text": "PySpark AWS EC2 Machine Learning Seaborn Quarto\nBuilt salary prediction models using a large Lightcast job postings dataset. Compared generalized linear regression, polynomial regression, and random forest models using RMSE, MAE, R², AIC, and BIC.\nKey skills: feature engineering, model evaluation, polynomial features, random forest feature importance, diagnostic visualization."
+  },
+  {
+    "objectID": "projects.html#big-data-visualization-on-scale",
+    "href": "projects.html#big-data-visualization-on-scale",
+    "title": "PROJECTS",
+    "section": "",
+    "text": "Python Plotly Seaborn Data Visualization Job Market Analysis\nCreated visualizations to explore labor market patterns, technical skill demand, and AI-related job trends. The project focused on turning large-scale job posting data into clear visual insights for business audiences.\nKey skills: exploratory data analysis, visual storytelling, chart design, job market trend analysis, insight communication."
+  },
+  {
+    "objectID": "projects.html#cloud-analytics-environment-setup",
+    "href": "projects.html#cloud-analytics-environment-setup",
+    "title": "PROJECTS",
+    "section": "",
+    "text": "AWS EC2 VS Code Python GitHub Quarto\nConfigured a cloud-based analytics environment using AWS EC2. Set up a virtual machine, connected through VS Code, installed required Python packages, and prepared the environment for reproducible analytics work.\nKey skills: cloud setup, remote development, virtual environments, Git/GitHub workflow, reproducible analytics."
+  },
+  {
+    "objectID": "projects.html#github-pages-portfolio-website",
+    "href": "projects.html#github-pages-portfolio-website",
+    "title": "PROJECTS",
+    "section": "",
+    "text": "Quarto GitHub Pages HTML CSS Professional Portfolio\nBuilt this personal portfolio website using Quarto and GitHub Pages. The website presents my background, academic projects, CV, and contact information in a clear and professional format.\nKey skills: website development, portfolio organization, GitHub Pages deployment, professional branding."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "CONTACT",
+    "section": "",
+    "text": "Thank you for visiting my portfolio.\nI am open to connecting with professionals, classmates, recruiters, and collaborators who are interested in analytics, business strategy, operations, technology, and data-driven decision-making.\n\n\nEmail: hkim07209@gmail.com\nLinkedIn: linkedin.com/in/hwkim0720\nGitHub: github.com/hey1kim\n\n\n\nBoston, Massachusetts"
+  },
+  {
+    "objectID": "contact.html#connect-with-me",
+    "href": "contact.html#connect-with-me",
+    "title": "CONTACT",
+    "section": "",
+    "text": "Email: hkim07209@gmail.com\nLinkedIn: linkedin.com/in/hwkim0720\nGitHub: github.com/hey1kim"
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "CONTACT",
+    "section": "",
+    "text": "Boston, Massachusetts"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "ABOUT ME",
     "section": "",
-    "text": "About this site"
+    "text": "I am Hye Won Kim, a strategy, operations, and analytics professional based in Boston, Massachusetts.\nI have 10+ years of experience across technology, market expansion, business operations, and data-driven decision-making. Most recently, I served as Chief of Staff to the CEO at Blind, where I supported growth strategy, KPI reporting, investor-facing materials, and cross-functional execution for U.S. and India expansion initiatives.\nI am currently pursuing an M.S. in Applied Business Analytics at Boston University. Through my coursework, I am building stronger technical skills in analytics, forecasting, cloud computing, data engineering, machine learning, and data visualization.\n\n\nMy interests sit at the intersection of business strategy and analytics. I am especially interested in using data to understand growth opportunities, improve business operations, and support better decision-making.\n\n\n\nMy goal is to continue building a career in data-driven business strategy, operations, and analytics. I am interested in roles where I can combine my business background with technical skills in Python, SQL, cloud computing, and data visualization.\n\n\n\n\nBusiness strategy and operations\nMarket expansion and go-to-market planning\nKPI reporting and executive communication\nData analysis and visualization\nCross-functional project execution\nTechnical learning in Python, PySpark, AWS, and Quarto"
+  },
+  {
+    "objectID": "about.html#professional-interests",
+    "href": "about.html#professional-interests",
+    "title": "ABOUT ME",
+    "section": "",
+    "text": "My interests sit at the intersection of business strategy and analytics. I am especially interested in using data to understand growth opportunities, improve business operations, and support better decision-making."
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "ABOUT ME",
+    "section": "",
+    "text": "My goal is to continue building a career in data-driven business strategy, operations, and analytics. I am interested in roles where I can combine my business background with technical skills in Python, SQL, cloud computing, and data visualization."
+  },
+  {
+    "objectID": "about.html#core-strengths",
+    "href": "about.html#core-strengths",
+    "title": "ABOUT ME",
+    "section": "",
+    "text": "Business strategy and operations\nMarket expansion and go-to-market planning\nKPI reporting and executive communication\nData analysis and visualization\nCross-functional project execution\nTechnical learning in Python, PySpark, AWS, and Quarto"
   }
 ]

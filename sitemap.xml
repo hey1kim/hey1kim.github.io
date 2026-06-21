@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hey1kim.github.io/index.html</loc>
-    <lastmod>2026-05-29T17:29:04.612Z</lastmod>
+    <lastmod>2026-06-21T04:23:08.607Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hey1kim.github.io/cv.html</loc>
+    <lastmod>2026-06-21T04:23:08.605Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hey1kim.github.io/projects.html</loc>
+    <lastmod>2026-06-21T04:23:08.608Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hey1kim.github.io/contact.html</loc>
+    <lastmod>2026-06-21T04:23:08.605Z</lastmod>
   </url>
   <url>
     <loc>https://hey1kim.github.io/about.html</loc>
-    <lastmod>2026-05-29T17:29:04.612Z</lastmod>
+    <lastmod>2026-06-21T04:23:08.605Z</lastmod>
   </url>
 </urlset>
