@@ -1,0 +1,34 @@
+---
+pagetitle: "CV"
+format:
+  html:
+    toc: false
+---
+
+# CV
+
+I am a strategy, operations, and analytics professional with 10+ years of experience across technology, market expansion, business operations, and data-driven decision-making.
+
+Most recently, I served as Chief of Staff to the CEO at Blind, where I supported growth strategy, KPI reporting, investor-facing materials, and cross-functional execution for U.S. and India expansion initiatives. I am currently pursuing an M.S. in Applied Business Analytics at Boston University.
+
+## Professional Background
+
+- Strategy, operations, and corporate development experience in the technology sector
+- Former Chief of Staff to the CEO at Blind
+- Experience supporting U.S. and international market expansion
+- Analytics experience using SQL, Python, Excel, Google Sheets, Superset, and Tableau
+- Current graduate student in Applied Business Analytics at Boston University
+
+## Education
+
+**Boston University**  
+M.S. in Applied Business Analytics  
+Expected January 2027
+
+**The Ohio State University**  
+B.S. in Hospitality Management  
+August 2014
+
+## Download My CV
+
+[Download CV](files/Hye_Won_Kim_CV.pdf)

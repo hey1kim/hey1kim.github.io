@@ -1,5 +1,33 @@
 ---
-title: "About"
+pagetitle: "About You"
+format:
+  html:
+    toc: false
 ---
 
-About this site
+# ABOUT ME
+
+![](files/profile.jpg){.profile-float}
+
+I am Hye Won Kim, a strategy, operations, and analytics professional based in Boston, Massachusetts.
+
+I have 10+ years of experience across technology, market expansion, business operations, and data-driven decision-making. Most recently, I served as Chief of Staff to the CEO at Blind, where I supported growth strategy, KPI reporting, investor-facing materials, and cross-functional execution for U.S. and India expansion initiatives.
+
+I am currently pursuing an M.S. in Applied Business Analytics at Boston University. Through my coursework, I am building stronger technical skills in analytics, forecasting, cloud computing, data engineering, machine learning, and data visualization.
+
+## Professional Interests
+
+My interests sit at the intersection of business strategy and analytics. I am especially interested in using data to understand growth opportunities, improve business operations, and support better decision-making.
+
+## Career Goals
+
+My goal is to continue building a career in data-driven business strategy, operations, and analytics. I am interested in roles where I can combine my business background with technical skills in Python, SQL, cloud computing, and data visualization.
+
+## Core Strengths
+
+- Business strategy and operations
+- Market expansion and go-to-market planning
+- KPI reporting and executive communication
+- Data analysis and visualization
+- Cross-functional project execution
+- Technical learning in Python, PySpark, AWS, and Quarto

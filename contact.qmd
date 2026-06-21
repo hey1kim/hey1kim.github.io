@@ -1,0 +1,24 @@
+---
+pagetitle: "Contact"
+format:
+  html:
+    toc: false
+---
+
+# CONTACT
+
+Thank you for visiting my portfolio.
+
+I am open to connecting with professionals, classmates, recruiters, and collaborators who are interested in analytics, business strategy, operations, technology, and data-driven decision-making.
+
+## Connect with me
+
+**Email:** hkim07209@gmail.com  
+
+**LinkedIn:** [linkedin.com/in/hwkim0720](https://www.linkedin.com/in/hwkim0720/)  
+
+**GitHub:** [github.com/hey1kim](https://github.com/hey1kim)
+
+## Location
+
+Boston, Massachusetts

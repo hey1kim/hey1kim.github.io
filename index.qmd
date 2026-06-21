@@ -1,10 +1,92 @@
 ---
-title: "AD688 Project"
-author: "Hye Won Kim"
-date: "2025-05-21"
+pagetitle: "Hye Won Kim"
 format:
   html:
-    theme: journal
-    toc: true
+    toc: false
 ---
-This is for AD688
+
+::: {.eyebrow}
+BUSINESS STRATEGY · OPERATIONS · ANALYTICS
+:::
+
+# HYE WON KIM
+
+## Turning data into business strategy and execution.
+
+::: {.intro-grid}
+
+::: {.intro-text}
+Welcome to my professional portfolio.
+
+I am a strategy, operations, and analytics professional with 10+ years of experience across technology, market expansion, business operations, and data-driven decision-making. I previously served as Chief of Staff to the CEO at Blind, where I supported growth strategy, KPI reporting, market expansion, investor-facing materials, and cross-functional execution for a professional community with 12M+ verified users.
+
+I am currently pursuing an M.S. in Applied Business Analytics at Boston University, where I am building stronger technical skills in analytics, forecasting, cloud computing, data engineering, machine learning, and data visualization.
+:::
+
+::: {.quick-facts}
+
+::: {.fact-card}
+**10+ Years**  
+Strategy, operations, and business experience
+:::
+
+::: {.fact-card}
+**12M+ Users**  
+Professional community supported at Blind
+:::
+
+::: {.fact-card}
+**BU Analytics**  
+Graduate study in applied business analytics
+:::
+
+:::
+
+:::
+
+## What This Portfolio Highlights
+
+This website showcases my academic and professional work, including:
+
+- Data-driven business strategy and operations experience
+- Big data processing and machine learning projects using PySpark
+- Cloud-based analytics workflows using AWS EC2
+- Data visualization and storytelling using Python, Seaborn, Plotly, and Quarto
+- Academic projects from Boston University’s analytics coursework
+
+## Featured Skills
+
+::: {.capabilities}
+
+::: {.capability-row}
+::: {.capability-title}
+Business Strategy
+:::
+::: {.capability-text}
+Growth strategy, business operations, market expansion, GTM strategy, corporate strategy, and cross-functional execution.
+:::
+:::
+
+::: {.capability-row}
+::: {.capability-title}
+Analytics & Tools
+:::
+::: {.capability-text}
+SQL, Python, Excel, Google Sheets, Superset, Tableau, Git/GitHub, KPI frameworks, funnel analysis, and segmentation.
+:::
+:::
+
+::: {.capability-row}
+::: {.capability-title}
+Communication
+:::
+::: {.capability-text}
+Executive reporting, KPI storytelling, stakeholder management, investor-facing materials, English, and Korean.
+:::
+:::
+
+:::
+
+## Explore My Portfolio
+
+Use the navigation bar to learn more about me, view selected projects, access my CV, or connect with me.

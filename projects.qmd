@@ -1,0 +1,66 @@
+---
+pagetitle: "Projects"
+format:
+  html:
+    toc: false
+---
+
+# PROJECTS
+
+This page highlights selected academic projects from my analytics coursework at Boston University. These projects demonstrate my growing technical skills in cloud computing, big data processing, machine learning, data visualization, and professional portfolio development.
+
+::: {.project-card}
+## Machine Learning on Scale
+
+<span class="badge">PySpark</span>
+<span class="badge">AWS EC2</span>
+<span class="badge">Machine Learning</span>
+<span class="badge">Seaborn</span>
+<span class="badge">Quarto</span>
+
+Built salary prediction models using a large Lightcast job postings dataset. Compared generalized linear regression, polynomial regression, and random forest models using RMSE, MAE, R², AIC, and BIC.
+
+**Key skills:** feature engineering, model evaluation, polynomial features, random forest feature importance, diagnostic visualization.
+:::
+
+::: {.project-card}
+## Big Data Visualization on Scale
+
+<span class="badge">Python</span>
+<span class="badge">Plotly</span>
+<span class="badge">Seaborn</span>
+<span class="badge">Data Visualization</span>
+<span class="badge">Job Market Analysis</span>
+
+Created visualizations to explore labor market patterns, technical skill demand, and AI-related job trends. The project focused on turning large-scale job posting data into clear visual insights for business audiences.
+
+**Key skills:** exploratory data analysis, visual storytelling, chart design, job market trend analysis, insight communication.
+:::
+
+::: {.project-card}
+## Cloud Analytics Environment Setup
+
+<span class="badge">AWS EC2</span>
+<span class="badge">VS Code</span>
+<span class="badge">Python</span>
+<span class="badge">GitHub</span>
+<span class="badge">Quarto</span>
+
+Configured a cloud-based analytics environment using AWS EC2. Set up a virtual machine, connected through VS Code, installed required Python packages, and prepared the environment for reproducible analytics work.
+
+**Key skills:** cloud setup, remote development, virtual environments, Git/GitHub workflow, reproducible analytics.
+:::
+
+::: {.project-card}
+## GitHub Pages Portfolio Website
+
+<span class="badge">Quarto</span>
+<span class="badge">GitHub Pages</span>
+<span class="badge">HTML</span>
+<span class="badge">CSS</span>
+<span class="badge">Professional Portfolio</span>
+
+Built this personal portfolio website using Quarto and GitHub Pages. The website presents my background, academic projects, CV, and contact information in a clear and professional format.
+
+**Key skills:** website development, portfolio organization, GitHub Pages deployment, professional branding.
+:::
